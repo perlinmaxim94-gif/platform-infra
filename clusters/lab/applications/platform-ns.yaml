@@ -6,7 +6,7 @@ metadata:
 spec:
   project: platform
   source:
-    repoURL: <ТВОЙ_REPO_URL>
+    repoURL: https://github.com/perlinmaxim94-gif/platform-infra.git
     targetRevision: main
     path: clusters/lab/namespaces/platform
   destination:
